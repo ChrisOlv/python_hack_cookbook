@@ -1,2 +1,3 @@
-/csv_to_excel_output
-# .csv
+/csv_to_excel_to_csv/*.xlsx
+/csv_to_excel_to_csv/*.xls
+/csv_to_excel_to_csv/*.csv
